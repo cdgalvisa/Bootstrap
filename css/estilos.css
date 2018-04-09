@@ -1,0 +1,278 @@
+*{
+	margin: 0;
+}
+.social{
+	margin: 50px 0 0 0;
+	margin-top: 170px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+#container2{
+	color: beige;
+	
+}
+
+.contenido{
+	text-align: justify;
+}
+
+.container{
+	background: url(../img/fondo.png);
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	border-radius:10px; 
+	
+}
+
+.navbar{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	margin-right: 30px;	
+}
+
+.music{
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 600px;
+	
+}
+
+.body{
+	background-color: rgb(255, 83, 72);
+	border-radius: 10px;
+}
+.cuerpo{
+	border: 2px;
+	background-color:#17A589;
+	border-radius: 10px;
+}
+.img_adele21{
+	width: 70%;
+}
+.Adele_19{
+	color: white;
+	
+}
+
+.img_adele19{
+	width: 300px;
+	margin-top: 125px;
+	border-bottom: 2px solid;
+	border-right: 2px solid;
+	box-shadow: #82c3a6;
+	filter: drop-shadow(3px 3px 6px #82c3a6);
+}
+
+#comentario{
+	margin-left: 100px;
+	width: 70%;
+	height: 50%;
+}
+.img_adele21{
+	margin-top: 25px;
+	margin-right: 10px;
+	width: 250px;
+	border-bottom: 2px solid;
+	border-right: 2px solid;
+	box-shadow: #82c3a6;
+
+}
+
+.input-group{
+	margin-top: 30px;
+}
+.body{
+	margin-left: 100px;
+}
+
+
+.form{
+	width: 100%;
+}
+.Adele_21{
+	width: 40%;
+	
+	color: white;
+	text-align: justify;
+}
+
+.comentariosegundo{
+	color: white;
+	margin-right: 0;
+	margin-left: 60px;
+	margin-top: 10px;
+	width: 250px;
+}
+.form-comentario2{
+	margin-top: 20px;
+}
+
+.comentario{
+	margin-left: 180px;
+	width: 550px;
+}
+
+.comentario{
+	background-color: aliceblue;
+	margin-left: 50px;
+	width: 90%;
+}
+
+.cuerpo{
+	width: 35%;
+}
+
+
+.lista{
+	width: 100%;
+	color: black;
+	margin-top: 30px;
+}
+.comentarioprimerarticulo{
+	color: white;
+	margin-right: 0;
+	margin-left: 80px;
+	
+}
+
+.comentario{
+	width: 400px;
+	border-radius: 10px;
+
+}
+
+.form1{
+	color: white;
+	
+}
+.comentariosegundo{
+	color: white;
+	margin-left: 0px;
+}
+
+.comentario1{
+	border-radius: 10px;
+	width: 400px;
+}
+
+.form-comentario2{
+	margin-left: 80px;
+}
+@media (max-width: 700px){
+	.container{
+		background: url(../img/fondo-celular.jpg);
+		background-attachment: scroll;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		border-radius:10px; 
+	}
+
+	
+	.Adele_19{
+		width: 90%;
+		background-color: #A9B0B0;
+		border-radius: 10px;
+		margin-top: 30px;
+		margin-left: 20px;
+	}
+
+
+	.body{
+		width: 70%;
+		margin-left: 60px;
+	}
+
+	.img_adele19{
+		margin-top: 10px;
+		margin-left: 10px;
+		width: 250px;
+	}
+	.comentarioprimerarticulo{
+		width: 30%;
+		margin-top: 11%;
+		margin-left: 80px;
+		color: black;
+	}
+
+	.comentario{
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.Adele_21{
+		margin-top: 0;
+		width: 100%;
+		color: black
+	}
+
+	.img_adele21{
+		margin-left: 0px;
+	}
+
+	.comentariosegundo{
+		margin-left: 80px;
+		margin-top: 10%;
+		color: black;
+	}
+
+	.comentario1{
+		width: 200px;
+		border-radius: 10px;
+		margin: 0px;
+	}
+
+	.form-comentario2{
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.input-group{
+		margin-left: 80px;
+		width: 250px;
+	}
+	.list-group{
+		margin-left: 80px;
+		width: 250px;
+	}
+}
+
+@media (max-width: 1024px) {
+	.Adele_21{
+		width: 100%;
+	}
+
+	.img_adele19{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.comentario{
+		margin-left: 0px;
+		margin-top: 40px;
+		width: 250px;
+	}
+	.comentarioprimerarticulo{
+		color: black;
+		margin-top: 20px;
+		width: 100%;
+		margin-left: 80px;
+	}
+	.comentario1{
+		
+		width: 250px;
+		
+	}
+	.comentario1{
+	margin-left: opx;
+	width: 200px;
+	}
+
+
+}
